@@ -1,0 +1,7 @@
+packages
+bin
+obj
+DwarfsWordGameSetup
+/.vs/DwarfsWordGame/v14/.suo
+.suo
+*.user

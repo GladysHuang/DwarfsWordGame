@@ -11,8 +11,9 @@ There are two assumptions:
 
 ## Installation
 
-[Install using setup.exe](https://github.com/GladysHuang/DwarfsWordGame)
-Alternately if the server has .NET runtime 4.5 already, you can just download DawarfsWordGame.exe.
+[Install using setup.exe](https://github.com/GladysHuang/DwarfsWordGame/blob/master/setup.exe)
+
+Alternately if the server has .NET runtime 4.5 already, you can just download DawarfsWordGame.exe [Here](https://github.com/GladysHuang/DwarfsWordGame/blob/master/DawarfsWordGame.exe).
 
 ## Source Code
 The project is C# in VS2015.

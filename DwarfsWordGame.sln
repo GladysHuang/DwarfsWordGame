@@ -8,6 +8,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DwarfsWordGame.Test", "DwarfsWordGame.Test\DwarfsWordGame.Test.csproj", "{7102B773-3179-43BA-A610-8D9D9F1733FB}"
 EndProject
 Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "DwarfsWordGameSetup", "DwarfsWordGameSetup\DwarfsWordGameSetup.isproj", "{801A537F-2485-447C-B4AD-18558ED10BD8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84ACF330-016E-4178-81AB-1C31819E563E} = {84ACF330-016E-4178-81AB-1C31819E563E}
+		{7102B773-3179-43BA-A610-8D9D9F1733FB} = {7102B773-3179-43BA-A610-8D9D9F1733FB}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

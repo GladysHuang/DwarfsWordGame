@@ -1,5 +1,6 @@
 # DwarfsWordGame
 Five Dwarfs play palindrome word game using their names. 
+This is a windows console application implemented using C#.
 
 ## Synopsis
 
